@@ -1,0 +1,11 @@
+C:\Repos Cursos\Unit Test\VaxiDrez\LibreriaVaxi\bin\Debug\net6.0\LibreriaVaxi.deps.json
+C:\Repos Cursos\Unit Test\VaxiDrez\LibreriaVaxi\bin\Debug\net6.0\LibreriaVaxi.dll
+C:\Repos Cursos\Unit Test\VaxiDrez\LibreriaVaxi\bin\Debug\net6.0\LibreriaVaxi.pdb
+C:\Repos Cursos\Unit Test\VaxiDrez\LibreriaVaxi\obj\Debug\net6.0\LibreriaVaxi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repos Cursos\Unit Test\VaxiDrez\LibreriaVaxi\obj\Debug\net6.0\LibreriaVaxi.AssemblyInfoInputs.cache
+C:\Repos Cursos\Unit Test\VaxiDrez\LibreriaVaxi\obj\Debug\net6.0\LibreriaVaxi.AssemblyInfo.cs
+C:\Repos Cursos\Unit Test\VaxiDrez\LibreriaVaxi\obj\Debug\net6.0\LibreriaVaxi.csproj.CoreCompileInputs.cache
+C:\Repos Cursos\Unit Test\VaxiDrez\LibreriaVaxi\obj\Debug\net6.0\LibreriaVaxi.dll
+C:\Repos Cursos\Unit Test\VaxiDrez\LibreriaVaxi\obj\Debug\net6.0\refint\LibreriaVaxi.dll
+C:\Repos Cursos\Unit Test\VaxiDrez\LibreriaVaxi\obj\Debug\net6.0\LibreriaVaxi.pdb
+C:\Repos Cursos\Unit Test\VaxiDrez\LibreriaVaxi\obj\Debug\net6.0\ref\LibreriaVaxi.dll
